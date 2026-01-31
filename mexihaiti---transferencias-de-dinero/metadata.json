@@ -1,0 +1,7 @@
+{
+  "name": "MexiHaiti - Transferencias de Dinero",
+  "description": "Plataforma fintech para envío de remesas desde México hacia Haití mediante NatCash y MonCash con procesamiento administrativo seguro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
